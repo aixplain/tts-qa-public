@@ -20,5 +20,5 @@ SQLAlchemy==1.4.47
 starlette==0.26.1
 streamlit==1.19.0
 streamlit_authenticator==0.2.1
-tqdm==4.64.1
+tqdm==4.66.3
 wandb==0.15.2
